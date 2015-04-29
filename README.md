@@ -1,2 +1,2 @@
 # SWEN-A1
-Assignment 1
+Assignment1: the hotel management for Mr Wang company.
